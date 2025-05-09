@@ -58,7 +58,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.DS_Store
 
 # secrets
 pulumi-gcp-key.json
-.DS_Store
